@@ -1,6 +1,6 @@
-# WakandaSwap Factory
+# SuyaSwap Factory
 
-In-depth documentation on PancakeSwap is available at [docs.wakandaswap.net](https://docs.wakandaswap.net/).
+In-depth documentation on PancakeSwap is available at [docs.suyaswap.net](https://docs.suyaswap.net/).
 
 # Local Development
 
